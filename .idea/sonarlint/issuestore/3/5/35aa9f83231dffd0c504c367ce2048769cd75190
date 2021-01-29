@@ -1,0 +1,7 @@
+
+°%squid:RedundantThrowsDeclarationCheck$"yRemove the declaration of thrown exception 'com.game.kalah.exception.KalahServiceException' which is a runtime exception.(”Ò8ÿ¯€÷ò.
+|squid:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").( ¼‡İûÿÿÿÿ8ÿ¯€÷ò.
+wsquid:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÂÓß°8üë¯ùò.
+wsquid:S2293\"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÙÓÛ¶8œ¡´÷ò.
+¶%squid:RedundantThrowsDeclarationCheckE"yRemove the declaration of thrown exception 'com.game.kalah.exception.KalahServiceException' which is a runtime exception.(†ØáÑşÿÿÿÿ8œ¡´÷ò.
+wsquid:S2293Y"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÂÓß°8œ¡´÷ò.

@@ -1,0 +1,12 @@
+
+dsquid:S3457S"AFormat specifiers should be used instead of string concatenation.(½Ó“æıÿÿÿÿ8¥Çº÷ò.
+±%squid:RedundantThrowsDeclarationCheck&"yRemove the declaration of thrown exception 'com.game.kalah.exception.KalahServiceException' which is a runtime exception.(¶ı¥ 8‰Éªùò.
+hsquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(ßŠ”8„¾÷ò.
+Zsquid:S2629S"7Use the built-in formatting to construct this argument.(½Ó“æıÿÿÿÿ8¥Çº÷ò.
+Osquid:S1612)",Replace this lambda with a method reference.(şÁ’·úÿÿÿÿ8ö‚­øò.
+7squid:S3457N"2nd argument is not used.(«¯ÇŒ8¥Çº÷ò.
+Bsquid:S2629N"$Invoke method(s) only conditionally.(«¯ÇŒ8¥Çº÷ò.
+wsquid:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(ÅÏó8ÌÔ§øò.
+±%squid:RedundantThrowsDeclarationCheckA"yRemove the declaration of thrown exception 'com.game.kalah.exception.KalahServiceException' which is a runtime exception.(ñ©—¦8¥Çº÷ò.
+isquid:CommentedOutCodeLineV"<This block of commented-out lines of code should be removed.(‘à±³8‚¡Â÷ò.
+Tsquid:S3655C"7Call "Optional#isPresent()" before accessing the value.(ßŠ”8ª«¾÷ò.
